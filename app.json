@@ -1,7 +1,7 @@
 {
-  "name": "silva-spark-md",
-  "description": "Javascript WhatsApp bot made by Silva.",
-  "keywords": ["silva-spark-md"],
+  "name": "❌G҉O҉D҉W҉I҉N҉❌",
+  "description": "Javascript WhatsApp bot made by ❌G҉O҉D҉W҉I҉N҉❌",
+  "keywords": ["❌G҉O҉D҉W҉I҉N҉❌"],
   "success_url": "/",
 
     "stack": "container",
@@ -21,7 +21,7 @@
     "LIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": false,
-      "value": "> SILVA SPARK IS SPARKING ACTIVE AND ALIVE⚡"
+      "value": "> ❌G҉O҉D҉W҉I҉N҉❌ IS ACTIVE AND ALIVE⚡"
     },
     "ANTIDELETE_PRIVATE": {
       "description": "when someone deletes a message on dm the bot restores it.",
@@ -43,7 +43,7 @@
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
       "required": false,
-      "value": "public"
+      "value": "private"
       
     },
 
@@ -57,7 +57,7 @@
     "ALWAYS_ONLINE": {
       "description": "Make it true if want always online.",
       "required": false,
-      "value": "false"  
+      "value": "true"  
     },    
   
     "AUTO_VOICE": {
@@ -94,26 +94,26 @@
     "AUTO_STATUS__MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*🎉👀 Seen by Silva Spark MD 🚀🔥*"
+      "value": "*🎉👀 Seen by ❌G҉O҉D҉W҉I҉N҉❌ 🚀🔥*"
     }, 
 
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "Silva Spark"
+      "value": "❌G҉O҉D҉W҉I҉N҉❌"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "254700143167"
+      "value": "2349012464012"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "✦ Silva ✦ Spark ✦ MD ✦"
+      "value": "❌G҉O҉D҉W҉I҉N҉❌"
 
       }, 
 
@@ -133,7 +133,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ✦ Silva ✦ Spark ✦ MD ✦*"
+      "value": "❌PAY EVIL WITH EVIL❌"
     },
 
       "DELETE_LINKS": {
